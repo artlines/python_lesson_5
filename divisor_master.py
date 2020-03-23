@@ -41,9 +41,3 @@ def get_factors_simple(numb):
 
     return divisors_simple
 
-
-print(get_divisors(100))
-print(is_simple(100))
-print(get_max_divisor(100))
-print(get_max_divisor_simple(100))
-print(get_factors_simple(100))
